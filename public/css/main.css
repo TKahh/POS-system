@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    
+}
+.bodyback {
+    background-color: rgb(203, 183, 183);
+}
+
+
+.btn-spacing {
+    margin-bottom: 20px;
+}
+
+.custom-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 100px;
+}
+
