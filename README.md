@@ -1,7 +1,7 @@
 A website that provides Point of Sale functionality for the purpose of selling at a retail store of phones and accessories. 
 The users of this web app are salespeople and administrator at a phone store.
 
-This web app needs to provide functions such as: sales transactions, product management, employee management, viewing reports and statistics.
+This web app provide functions such as: sales transactions, product management, employee management, viewing reports and statistics.
 THIS WEB ONLY WORK LOCALLY
 
 HOW TO USE:
